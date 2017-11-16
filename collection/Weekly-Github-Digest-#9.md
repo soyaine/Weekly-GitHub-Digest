@@ -1,4 +1,4 @@
-## Weekly-Github-Digest #9
+## Weekly-GitHub-Digest #9
 > 2017/10/26 - 2017/11/01
 
 #### Web - 網路本身高風險，請詳閱公開說明書
@@ -77,11 +77,11 @@
 ---
 
 #### You Need Some Music, And A Bottle of Dry Martini - 你一定要把氣氛搞得這麼銷魂嗎
-- [DJ Okawari - Flower Dance](https://www.youtube.com/watch?v=AULG4MoYxQk)
+- [DJ Okawari - Flower Dance](https://www.youtube.com/watch?v=AULG4MoYxQk&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op&index=9)
   
   > 和 DJ Okawari 的第一次接觸是在大學室友的手機聽到的，當時印象中在公館附近的河濱公園排練火舞，這首 Flower Dance 正是編舞的配樂，聽得出來混了蠻多的音效進去的，開頭的對話也別具巧思。只能說大學時代真的很 87，做了很多現在無法想像的蠢事，有段不短的時間跟室友念完書就騎著鳥鳥的腳踏車，帶上兩根長長的火棍和兩個史詩級別的光棍，一路搖搖晃晃像在走鋼索的人拿平衡桿一般的騎到公園。講這麼多搞不好有人以為筆者也會跳火舞，筆者每次去都只是幫忙帶道具去而已，其實大部分時間都在一旁吃炸物配啤酒。呵呵。
   <p align="center"> 
-    <a href="https://www.youtube.com/watch?v=AULG4MoYxQk">
+    <a href="https://www.youtube.com/watch?v=AULG4MoYxQk&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op&index=9">
       <img src="https://i.imgur.com/KWEyYyw.png" alt="Video Demo" />
     </a>
   </p>

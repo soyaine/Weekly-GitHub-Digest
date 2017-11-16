@@ -1,4 +1,4 @@
-## Weekly-Github-Digest #10
+## Weekly-GitHub-Digest #10
 > 2017/11/02 - 2017/11/08
 
 #### Web - 網路本身高風險，請詳閱公開說明書
@@ -81,11 +81,11 @@
 ---
 
 #### You Need Some Music, And A Bottle of Dry Martini - 你一定要把氣氛搞得這麼銷魂嗎
-- [Toe - Two Moons](https://www.youtube.com/watch?v=lACSvDOLhLU)
+- [Toe - Two Moons](https://www.youtube.com/watch?v=lACSvDOLhLU&index=10&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op)
   
-  > 已經是第二回在 Weekly-Github-Digest 推薦 Toe 這樂團的歌曲了，無奈這陣子光是公司的事情忙到快翻過去，除了處理一大堆雜事和鳥事，內心也開始多了不少懷疑的聲音，不曉得自己當初選擇回南部工作的決定是否正確，心煩意亂之時不太想聽到人聲，寧願雙耳只有穩重的 beats 和鼓聲充斥其中。
+  > 已經是第二回在 Weekly-GitHub-Digest 推薦 Toe 這樂團的歌曲了，無奈這陣子光是公司的事情忙到快翻過去，除了處理一大堆雜事和鳥事，內心也開始多了不少懷疑的聲音，不曉得自己當初選擇回南部工作的決定是否正確，心煩意亂之時不太想聽到人聲，寧願雙耳只有穩重的 beats 和鼓聲充斥其中。
   <p align="center"> 
-    <a href="https://www.youtube.com/watch?v=lACSvDOLhLU">
+    <a href="https://www.youtube.com/watch?v=lACSvDOLhLU&index=10&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op">
       <img src="https://i.imgur.com/ZJtow5G.jpg" alt="Video Demo" />
     </a>
   </p>

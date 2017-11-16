@@ -1,4 +1,4 @@
-## Weekly-Github-Digest #8
+## Weekly-GitHub-Digest #8
 > 2017/10/19 - 2017/10/25
 
 #### Web - 網路本身高風險，請詳閱公開說明書
@@ -81,11 +81,11 @@
 ---
 
 #### You Need Some Music, And A Bottle of Dry Martini - 你一定要把氣氛搞得這麼銷魂嗎
-- [WEDNESDAY CAMPANELLA - Medusa](https://www.youtube.com/watch?v=V5fO-WXd9W8)
+- [WEDNESDAY CAMPANELLA - Medusa](https://www.youtube.com/watch?v=V5fO-WXd9W8&index=8&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op)
   
   > 前幾個禮拜特地花了特休的扣打，搭了四個小時的車北上，再次拜訪了前年聽 Sakanction 演唱會的 Legacy Taipei，不過這回朝聖的是 Wednesday Campanella，如果喜歡 EDM 那種有點ㄎㄧㄤ帶點迷幻的 rhyme，KOM_I 獨特的表演風格你絕對會立馬愛上。其實會場空間不能算是特別大，沒有劃位整場都是站位，筆者很幸運的擠到了前兩排的搖滾區，也不意外的被左右兩旁不認識的歌迷撞來撞去，但最讓人感到驚豔的不僅於此，場地中央設置了可移動式的簡易舞台，中場還有充氣大球直接互動，從台上到台下就算是站最後排的觀眾一樣可以近距離觀賞到演出。如果說 Sakanction 的表演內容是一生必聽且完全值回票價的現場演場會之一，那 Wednesday Campanella 呈現給你的將會是天馬行空且前所未聞的感官體驗。
   <p align="center"> 
-    <a href="https://www.youtube.com/watch?v=V5fO-WXd9W8">
+    <a href="https://www.youtube.com/watch?v=V5fO-WXd9W8&index=8&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op">
       <img src="https://i.imgur.com/Ge42lZY.png" alt="Video Demo" />
     </a>
   </p>

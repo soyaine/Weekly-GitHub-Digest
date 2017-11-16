@@ -1,4 +1,4 @@
-## Weekly-Github-Digest #4
+## Weekly-GitHub-Digest #4
 > 2017/09/21 - 2017/09/27
 
 #### Web - 網路本身高風險，請詳閱公開說明書
@@ -61,11 +61,11 @@
 ---
 
 #### You Need Some Music, And A Bottle of Dry Martini - 你一定要把氣氛搞得這麼銷魂嗎
-- [Toe - Goodbye](https://www.youtube.com/watch?v=e0RWnzd_b_k)
+- [Toe - Goodbye](https://www.youtube.com/watch?v=e0RWnzd_b_k&index=4&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op)
   
   > 會知道 Toe 這個樂團得追溯到大四那年在 IOH 實習，某次工作坊的前一天晚上跟西卡在整理明天要用的器材，一直搬東西做事其實很悶，這時西卡便很有情調的放了她常聽的歌曲清單，從聽到的那一刻起 Toe 就走進了筆者的人生，似乎有點太油太浮誇了。相見恨晚的不只這點，才剛愛上他們的音樂，就發現一個月前他們早就去 The Wall 辦過演唱會。人生中的每段時期或許都有首歌能夠代表，就像是個象徵，說不太上是否存在某種意義，但聽這首歌時總會想念起過去在 IOH 的種種，一同經歷過的人事物，儘管選擇離開也是自己的決定。
   <p align="center"> 
-    <a href="https://www.youtube.com/watch?v=e0RWnzd_b_k">
+    <a href="https://www.youtube.com/watch?v=e0RWnzd_b_k&index=4&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op">
       <img src="https://i.imgur.com/jKl1vTz.png" alt="Video Demo" />
     </a>
   </p>

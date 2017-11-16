@@ -1,4 +1,4 @@
-## Weekly-Github-Digest #2
+## Weekly-GitHub-Digest #2
 > 2017/09/07 - 2017/09/13
 
 #### Web - 網路本身高風險，請詳閱公開說明書
@@ -64,11 +64,11 @@
 ---
 
 #### You Need Some Music, And A Bottle of Dry Martini - 你一定要把氣氛搞得這麼銷魂嗎
-- [サカナクション(Sakanaction) - ミュージック(Music)](https://www.youtube.com/watch?v=iVstp5Ozw2o)
+- [サカナクション(Sakanaction) - ミュージック(Music)](https://www.youtube.com/watch?v=iVstp5Ozw2o&index=2&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op)
   
   > 人生第一場特地搶票看現場的演唱會就是魚韻了，當時看宇宙電波的專文報導心裡就想著哪一天一定要看到，去年三月中他們曾經來到台灣的 Legacy Taipei 表演，筆者的序號原本是 500 多號，排隊按號碼順序入場結果前面一大堆人遲到最後反而搶到前幾排的站位，單純為了這件事開心了整整一個禮拜。
   <p align="center"> 
-    <a href="https://www.youtube.com/watch?v=iVstp5Ozw2o">
+    <a href="https://www.youtube.com/watch?v=iVstp5Ozw2o&index=2&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op">
       <img src="https://i.imgur.com/Bzpm6Lv.png" alt="Video Demo" />
     </a>
   </p>

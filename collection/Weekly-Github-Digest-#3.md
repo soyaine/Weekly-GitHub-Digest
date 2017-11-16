@@ -1,4 +1,4 @@
-## Weekly-Github-Digest #3
+## Weekly-GitHub-Digest #3
 > 2017/09/14 - 2017/09/20
 
 #### Web - 網路本身高風險，請詳閱公開說明書
@@ -67,11 +67,11 @@
 ---
 
 #### You Need Some Music, And A Bottle of Dry Martini - 你一定要把氣氛搞得這麼銷魂嗎
-- [Spangle call Lilli line "nano - TK kaleidoscope Remix"](https://www.youtube.com/watch?v=0zUE1E3e7Mg)
+- [Spangle call Lilli line "nano - TK kaleidoscope Remix"](https://www.youtube.com/watch?v=0zUE1E3e7Mg&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op&index=3)
   
   > 對筆者來說原版通常都是最好聽的版本，但這首卻是 remix 版本大勝，曲風帶點搖滾迷幻，到了間奏和副歌階段吉他的不停刷弦讓整體意境混沌了起來。
   <p align="center"> 
-    <a href="https://www.youtube.com/watch?v=0zUE1E3e7Mg">
+    <a href="https://www.youtube.com/watch?v=0zUE1E3e7Mg&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op&index=3">
       <img src="https://i.imgur.com/pi66ueL.png" alt="Video Demo" />
     </a>
   </p>

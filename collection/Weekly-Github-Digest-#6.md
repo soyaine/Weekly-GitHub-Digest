@@ -1,4 +1,4 @@
-## Weekly-Github-Digest #6
+## Weekly-GitHub-Digest #6
 > 2017/10/05 - 2017/10/11
 
 #### Web - 網路本身高風險，請詳閱公開說明書
@@ -75,11 +75,11 @@
 ---
 
 #### You Need Some Music, And A Bottle of Dry Martini - 你一定要把氣氛搞得這麼銷魂嗎
-- [Girls’ Generation - Into The New World](https://www.youtube.com/watch?v=0k2Zzkw_-0I)
+- [Girls’ Generation - Into The New World](https://www.youtube.com/watch?v=0k2Zzkw_-0I&index=6&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op)
   
   > 雖然沒怎麼聽韓文歌，但當初會喜歡少女時代大概是因為這首歌和 Genie 吧，也是少數幾個全部名字都叫得出來的女團，前幾天徐玄，Tiffany 和秀英合約期滿而離團無疑又是枚震撼彈，不曉得當中有無其他原因，但三人目前看來都有明確的道路要走，過去的九人團隊現在僅剩五人支撐，感嘆之餘也在思考著下個接棒的女團會不會是 Twice。
   <p align="center"> 
-    <a href="https://www.youtube.com/watch?v=0k2Zzkw_-0I">
+    <a href="https://www.youtube.com/watch?v=0k2Zzkw_-0I&index=6&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op">
       <img src="https://i.imgur.com/v4rTuBX.jpg" alt="Video Demo" />
     </a>
   </p>

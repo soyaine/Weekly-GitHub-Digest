@@ -1,4 +1,4 @@
-## Weekly-Github-Digest #7
+## Weekly-GitHub-Digest #7
 > 2017/10/12 - 2017/10/18
 
 #### Web - 網路本身高風險，請詳閱公開說明書
@@ -74,11 +74,11 @@
 ---
 
 #### You Need Some Music, And A Bottle of Dry Martini - 你一定要把氣氛搞得這麼銷魂嗎
-- [capsule - Sugarless GiRL](https://www.youtube.com/watch?v=x6UurRhIgD0)
+- [capsule - Sugarless GiRL](https://www.youtube.com/watch?v=x6UurRhIgD0&index=7&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op)
   
   > 有在聽日本 EDM 相關的團體，應該對 Perfume 或是卡莉怪妞的曲風都不陌生，隨然自己沒有真正跳下去玩過音樂，不過聽了他們的歌這麼久，不免對樂曲的製作者感到好奇，好奇心驅使之下找了些資料意外的發現，背後的製作人竟然是同一人，[中田康貴](https://www.gooume-jp.com/works/223/zh_TW)。不僅於此，他還自組了一個團體叫做 capsule，歌曲走同樣的風格路線聽起來卻格外有其個人味道。編曲旋律是讓 EDM 洗腦的關鍵，就像這首 Sugarless GiRL 筆者已經 loop 了快四十遍。
   <p align="center"> 
-    <a href="https://www.youtube.com/watch?v=x6UurRhIgD0">
+    <a href="https://www.youtube.com/watch?v=x6UurRhIgD0&index=7&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op">
       <img src="https://i.imgur.com/6FUcr4E.png" alt="Video Demo" />
     </a>
   </p>

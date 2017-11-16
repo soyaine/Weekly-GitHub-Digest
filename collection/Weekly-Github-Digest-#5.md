@@ -1,4 +1,4 @@
-## Weekly-Github-Digest #5
+## Weekly-GitHub-Digest #5
 > 2017/09/28 - 2017/10/04
 
 #### Web - 網路本身高風險，請詳閱公開說明書
@@ -75,11 +75,11 @@
 ---
 
 #### You Need Some Music, And A Bottle of Dry Martini - 你一定要把氣氛搞得這麼銷魂嗎
-- [Sayuri - Odd Eye](https://www.youtube.com/watch?v=J2sK7UI5HYY)
+- [Sayuri - Odd Eye](https://www.youtube.com/watch?v=J2sK7UI5HYY&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op&index=5)
   
   > 對筆者而言很少有歌手或是樂團能夠在聽到的第一時間就徹底愛上的，酸欠少女散發的音樂魅力的確有股奇妙的魔法充斥其中，可以去找找看出道前她在各地車站表演的音樂影片，唱現場的爆發力十足，作品定位曲風明確歌詞內容不矯情。很難想像她只有 21 歲。
   <p align="center"> 
-    <a href="https://www.youtube.com/watch?v=J2sK7UI5HYY">
+    <a href="https://www.youtube.com/watch?v=J2sK7UI5HYY&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op&index=5">
       <img src="https://i.imgur.com/OoZrtgJ.png" alt="Video Demo" />
     </a>
   </p>
