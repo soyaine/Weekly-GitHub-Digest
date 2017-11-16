@@ -1,4 +1,4 @@
-## Weekly-Github-Digest
+## Weekly-GitHub-Digest
 
 ![從零到無](https://i.imgur.com/PBHE5zN.png?1)
 
