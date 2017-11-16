@@ -4,7 +4,7 @@
 #### Web - 網路本身高風險，請詳閱公開說明書
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark)  :octocat: Dark GitHub style
   
-  >  做正職工程師不過也快一年，有時明明身體還很有活力，可是眼睛卻痠痛到一個爆炸，可能是久盯螢幕導致眼壓過高，除了在 Mac 上安裝了 f.lux，每天最常瀏覽的 Github 也該適時做點調整了。這項專案把樣式做成了 Chrome Extension，當然也有 Firefox，Safari 和 Opera 這些主流瀏覽器的可供選項，裝上之後會發現色調以深色為主，少掉了不少白黃光的刺激雙眼真的會舒服許多。
+  >  做正職工程師不過也快一年，有時明明身體還很有活力，可是眼睛卻痠痛到一個爆炸，可能是久盯螢幕導致眼壓過高，除了在 Mac 上安裝了 f.lux，每天最常瀏覽的 GitHub 也該適時做點調整了。這項專案把樣式做成了 Chrome Extension，當然也有 Firefox，Safari 和 Opera 這些主流瀏覽器的可供選項，裝上之後會發現色調以深色為主，少掉了不少白黃光的刺激雙眼真的會舒服許多。
   <p align="center">
     <a target="_blank" href="https://github.com/StylishThemes/GitHub-Dark"><img alt="GitHub-Dark" src="https://camo.githubusercontent.com/8cece453b69848fb71c2d1ae5054971d63f70111/68747470733a2f2f7261776769742e636f6d2f5374796c6973685468656d65732f6c6f676f732f6d61737465722f6769746875622e6461726b2f6769746875626461726b2d6d696e692e737667"></a>
   </p>

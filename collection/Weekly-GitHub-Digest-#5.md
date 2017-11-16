@@ -4,7 +4,7 @@
 #### Web - 網路本身高風險，請詳閱公開說明書
 - [jenkoian/hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker)  🎃 Check how you're doing in hacktoberfest
   
-  > 每年十月的年度盛事，也就是 Github 官方會舉辦一個活動，為了鼓勵大家多多參與開源社群，只要在該月發出至少四個 Pull Request，你就能夠拿到他們提供的衣服和貼紙，也許發 PR 對新手會較為陌生，對於第一次參與的開發者 Github 上也有諸多相當平易近人的專案像是 [first-contributions](https://github.com/Roshanjossey/first-contributions) ，整體而言算是讓開源圈更加蓬勃發展一個很棒的作法。
+  > 每年十月的年度盛事，也就是 GitHub 官方會舉辦一個活動，為了鼓勵大家多多參與開源社群，只要在該月發出至少四個 Pull Request，你就能夠拿到他們提供的衣服和貼紙，也許發 PR 對新手會較為陌生，對於第一次參與的開發者 GitHub 上也有諸多相當平易近人的專案像是 [first-contributions](https://github.com/Roshanjossey/first-contributions) ，整體而言算是讓開源圈更加蓬勃發展一個很棒的作法。
   <p align="center">
     <a target="_blank" href="https://github.com/jenkoian/hacktoberfest-checker"><img alt="hacktoberfest-checker" src="https://i.imgur.com/lopLZTi.png"></a>
   </p>

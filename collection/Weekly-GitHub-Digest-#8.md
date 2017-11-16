@@ -4,7 +4,7 @@
 #### Web - 網路本身高風險，請詳閱公開說明書
 - [dtinth/atom-aesthetic-ui](https://github.com/dtinth/atom-aesthetic-ui)  Ａｎ　ＡＥＳＴＨＥＴＩＣ　ＵＩ　tｈｅｍｅ　ｆｏｒ　Ａｔｏｍ．
   
-  > 不久前好像才推薦過調整 Github 背景色以保護眼睛的 plugin，這次來個腦洞大開。這套特別針對 Atom 編輯器的外掛一裝上立馬讓你回到復古風滿出來的 Windows 美好年代，整個主題和樣式一次到位，不管是分頁標籤或是按鈕甚至是那條經典的藍色帶狀漸層都有水準之上的完美呈現，既復刻又大方，短期內很難找到更為出色的作品了。是說 project 名稱叫 aesthetic 是為了營造某種衝突美感嗎ＸＤ
+  > 不久前好像才推薦過調整 GitHub 背景色以保護眼睛的 plugin，這次來個腦洞大開。這套特別針對 Atom 編輯器的外掛一裝上立馬讓你回到復古風滿出來的 Windows 美好年代，整個主題和樣式一次到位，不管是分頁標籤或是按鈕甚至是那條經典的藍色帶狀漸層都有水準之上的完美呈現，既復刻又大方，短期內很難找到更為出色的作品了。是說 project 名稱叫 aesthetic 是為了營造某種衝突美感嗎ＸＤ
   <p align="center">
     <a target="_blank" href="https://github.com/dtinth/atom-aesthetic-ui"><img alt="atom-aesthetic-ui" src="https://camo.githubusercontent.com/729adbef4e35abd35e5a2ba894c35d3dbc35467b/687474703a2f2f692e696d6775722e636f6d2f3435354132696d2e706e67"></a>
   </p>
