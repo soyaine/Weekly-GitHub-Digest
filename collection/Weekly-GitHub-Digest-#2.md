@@ -41,7 +41,7 @@
 
 - [gitpoint/git-point](https://github.com/gitpoint/git-point)  GitHub in your pocket 📱
 
-  > 雙平台都能使用的話很明顯是用 React Native 開發的 mobile app，讓你出門在外不管是吃午餐還是約會都能持續瀏覽 Github，走在時代尖端就是潮！
+  > 雙平台都能使用的話很明顯是用 React Native 開發的 mobile app，讓你出門在外不管是吃午餐還是約會都能持續瀏覽 GitHub，走在時代尖端就是潮！
   <p align="center">
     <a target="_blank" href="https://github.com/gitpoint/git-point"><img width="300" alt="gitp-oint" src="https://camo.githubusercontent.com/23000a0148c8b81e8afda51cef7b2c62ac4f2bac/687474703a2f2f692e696d6775722e636f6d2f486f774636614d2e706e67">       </a>
   </p>

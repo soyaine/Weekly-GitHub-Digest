@@ -4,7 +4,7 @@
 #### Web - 網路本身高風險，請詳閱公開說明書
 - [dawnlabs/carbon](https://github.com/dawnlabs/carbon)  Create and share beautiful images of your source code 🎨
   
-  > 該工具可以協助你在貼 code 時 hightlight 關鍵字並且加上類似編輯器的邊框，整個質感和顏值都上來了啊！筆者過去的開發經驗是，當某段程式碼需要給同事看時，往往都是直接用截圖的方式，或是丟到 Github Gist 再標註行號，這次介紹的 carbon 是個蠻新鮮的作法，雖然不見得符合每個人分享程式碼的習慣，但可以做為個新嘗試玩玩看。
+  > 該工具可以協助你在貼 code 時 hightlight 關鍵字並且加上類似編輯器的邊框，整個質感和顏值都上來了啊！筆者過去的開發經驗是，當某段程式碼需要給同事看時，往往都是直接用截圖的方式，或是丟到 GitHub Gist 再標註行號，這次介紹的 carbon 是個蠻新鮮的作法，雖然不見得符合每個人分享程式碼的習慣，但可以做為個新嘗試玩玩看。
   <p align="center">
     <a target="_blank" href="https://github.com/dawnlabs/carbon"><img alt="carbon" src="https://i.imgur.com/cZ3sAfU.png"></a>
   </p>
@@ -38,7 +38,7 @@
 
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli)  Cli tool to easily setup a new resume 📑
 
-  > 不曉得其他工程師在求職寫履歷時都是自幹 theme 還是有其他做法，最近常看到的是使用台灣一家新創的服務叫做 CakeResume，整體介面操作起來蠻輕鬆的，雖然有著這樣不錯的產品，還是會想看看 Github 上有無相關的履歷製作工具，resume-cli 還真的滿足了這個需求，甚至還做了個簡單好用的[產生器](http://registry.jsonresume.org/)，開源的魅力著實太驚人了。
+  > 不曉得其他工程師在求職寫履歷時都是自幹 theme 還是有其他做法，最近常看到的是使用台灣一家新創的服務叫做 CakeResume，整體介面操作起來蠻輕鬆的，雖然有著這樣不錯的產品，還是會想看看 GitHub 上有無相關的履歷製作工具，resume-cli 還真的滿足了這個需求，甚至還做了個簡單好用的[產生器](http://registry.jsonresume.org/)，開源的魅力著實太驚人了。
   <p align="center">
     <a target="_blank" href="https://github.com/jsonresume/resume-cli"><img alt="resume-cli" src="https://i.imgur.com/P4a7GM1.png"></a>
   </p>
