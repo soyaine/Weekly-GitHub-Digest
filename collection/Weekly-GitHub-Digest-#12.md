@@ -86,11 +86,11 @@
 ---
 
 #### You Need Some Music, And A Bottle of Dry Martini - 你一定要把氣氛搞得這麼銷魂嗎
-- [Perfume - Sweet Refrain](https://www.youtube.com/watch?v=CYL3DnyA4e0)
+- [Perfume - Sweet Refrain](https://www.youtube.com/watch?v=CYL3DnyA4e0&index=12&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op)
   
   > 和卡莉怪妞同樣是由鬼才製作人中田康貴一手打造的電音團體 Perfume，EDM 曲風一開始聽其實頗不習慣，畢竟原本正常的 vocal 及聲線被刻意壓縮過顯得不太自然，但隔了一陣子會有種必須要再回來重聽幾遍的感覺，接著就是一聽再聽反覆地聽。不過人聲說穿了其實也是音效的一種，很少人會把演唱者的音色本質做大幅度的修改，原因在於過分大膽也過於冒險，中田某種程度打破了這樣的禁忌也成功創造了屬於 Perfume 專屬的 EDM 特質。
   <p align="center"> 
-    <a href="https://www.youtube.com/watch?v=CYL3DnyA4e0">
+    <a href="https://www.youtube.com/watch?v=CYL3DnyA4e0&index=12&list=PLxPPbs7D6-e9EormZGytI5kUtNiOre2Op">
       <img src="https://i.imgur.com/5Z9gSkI.png" alt="Video Demo" />
     </a>
   </p>
