@@ -17,7 +17,7 @@
 
 | 2017/09 | 2017/10 | 2017/11 | 2017/12
 | --- | --- | --- | --- |
-| [#01](https://goo.gl/8PVPUC) | [#05](https://goo.gl/bstNPx) | [#09](https://goo.gl/haJtCq) |    |
+| [#01](https://goo.gl/8PVPUC) | [#05](https://goo.gl/bstNPx) | [#09](https://goo.gl/haJtCq) | [#13](https://goo.gl/1zDA1n) |
 | [#02](https://goo.gl/ssHdTg) | [#06](https://goo.gl/tXwdKH) | [#10](https://goo.gl/LW2n4P) |    |
 | [#03](https://goo.gl/69rdNs) | [#07](https://goo.gl/bFzqEj) | [#11](https://goo.gl/YRuQSr) |    |
 | [#04](https://goo.gl/yGKnTH) | [#08](https://goo.gl/z9jg8T) | [#12](https://goo.gl/shpmov) |    |
